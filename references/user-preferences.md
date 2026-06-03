@@ -1,4 +1,4 @@
-# User Preferences Template
+﻿# User Preferences Template
 
 This file is intentionally a template for public sharing.
 
