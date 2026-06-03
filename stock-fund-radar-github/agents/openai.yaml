@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股基金雷达"
+  short_description: "基于最新市场资金流政策与基金量化筛选的A股研究助手"
+  default_prompt: "Use $stock-fund-radar to analyze today's A-share market, main themes, capital flows, and fund opportunities."
