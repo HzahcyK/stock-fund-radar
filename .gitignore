@@ -1,0 +1,11 @@
+# Local/private skill memory
+references/user-preferences.local.md
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.zip
